@@ -1,1 +1,1 @@
-123
+{"name":"foo","profiles":["dev"],"label":null,"version":"00d32612a38898781bce791a4a845e60a7fbdb4e","state":null,"propertySources":[]}
